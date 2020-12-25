@@ -1,0 +1,18 @@
+{
+  "antidoteShot": {
+    "img": "/consumables/Antidote_Shot",
+    "name": "Antidote Shot"
+  },
+  "bigDynamiteBundle": {
+    "img": "/consumables/Big_Dynamite_Bundle",
+    "name": "Big Dynamite Bundle"
+  },
+  "chaosBomb": {
+    "img": "/consumables/Chaos_Bomb",
+    "name": "Chaos Bomb"
+  },
+  "concertinaBomb": {
+    "img": "/consumables/Concertina_Bomb",
+    "name": "Concertina Bomb"
+  }
+}

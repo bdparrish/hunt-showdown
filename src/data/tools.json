@@ -1,0 +1,18 @@
+{
+  "alertTripMines": {
+    "img": "/tools/Alert_Trip_Mines",
+    "name": "Alert Trip Mines"
+  },
+  "concertinaTripMines": {
+    "img": "/tools/Concertina_Trip_Mines",
+    "name": "Concertina Trip Mines"
+  },
+  "blankFireDecoys": {
+    "img": "/tools/Blank_Fire_Decoys",
+    "name": "Blank Fire Decoys"
+  },
+  "chokeBomb": {
+    "img": "/tools/Choke_Bomb",
+    "name": "Choke Bomb"
+  }
+}

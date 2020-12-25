@@ -1,0 +1,179 @@
+.App {
+  text-align: center;
+  background: black;
+  color: white;
+}
+
+h1,
+h2,
+.random {
+  margin: 0 0 0 -135px;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.random {
+  background-color: red;
+  border: none;
+  color: white;
+  margin-bottom: 32px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.simple-modal-title {
+  margin: 0;
+}
+
+.slot {
+  border: 1px solid white;
+}
+
+.slot,
+.label {
+  height: 110px;
+  margin: 10px;
+}
+
+.slot-sm {
+  width: 110px;
+}
+
+.slot-md {
+  width: 220px;
+}
+
+.slot-lg {
+  width: 330px;
+}
+
+.center {
+  margin: 15px auto;
+}
+
+.weapon {
+  width: 900px;
+  height: 180px;
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  grid-template-rows: 80% 20%;
+}
+
+.primary .slot img,
+.secondary .slot img {
+  max-width: 110px;
+  max-height: 110px;
+  width: auto;
+  height: auto;
+}
+
+.primary {
+  grid-row: 1;
+  grid-column: 1/5;
+}
+
+.secondary {
+  grid-row: 1;
+  grid-column: 5/10;
+}
+
+.primary .slot-md img,
+.secondary .slot-md img {
+  max-width: 220px;
+}
+
+.primary .slot-lg img,
+.secondary .slot-lg img {
+  max-width: 330px;
+}
+
+.primary-label {
+  grid-row: 2;
+  grid-column: 1/5;
+}
+
+.secondary-label {
+  grid-row: 2;
+  grid-column: 5/10;
+}
+
+.loadout {
+  width: 650px;
+  height: 520px;
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 25% 10% 15% 25% 10% 15%;
+}
+
+.tools.slot {
+  grid-row: 1;
+}
+
+.tools.slot img,
+.consumables.slot img {
+  max-width: 110px;
+  max-height: 110px;
+  width: auto;
+  height: auto;
+}
+
+.tools.label {
+  grid-row: 2;
+}
+
+.consumables.slot {
+  grid-row: 4;
+}
+
+.consumables.label {
+  grid-row: 5;
+}
+
+.one {
+  grid-column: 1;
+}
+
+.two {
+  grid-column: 2;
+}
+
+.three {
+  grid-column: 3;
+}
+
+.four {
+  grid-column: 4;
+}
+
+.settings-wheel {
+  margin: auto;
+  grid-row: 1;
+  grid-column: 10;
+  cursor: pointer;
+}
+
+.settings-wheel,
+.settings-wheel img {
+  height: 30px;
+  width: 30px;
+}
+
+.settings-wheel img {
+  margin: -3px 0 0 -8px;
+}
+
+.consumables.settings-wheel {
+  grid-row: 4;
+}
+
+.center {
+  margin: auto;
+}

@@ -1,0 +1,56 @@
+{
+  "large": {
+    "mosinNagantM1891": {
+      "img": "/weapon/large/Mosin_Nagant_M1891",
+      "name": "Mosin Nagant M1891"
+    },
+    "bombLance": {
+      "img": "/weapon/large/Bomb_Lance",
+      "name": "Bomb Lance"
+    },
+    "caldwellRival78": {
+      "img": "/weapon/large/Caldwell_Rival_78",
+      "name": "Caldwell Rival 78"
+    },
+    "crossbowExplosive": {
+      "img": "/weapon/large/Crossbow_Explosive",
+      "name": "Crossbow Explosive"
+    }
+  },
+  "medium": {
+    "bornheimNo3Match": {
+      "img": "/weapon/medium/Bornheim_No._3_Match",
+      "name": "Bornheim No. 3 Match"
+    },
+    "caldwellRivalHandcannon": {
+      "img": "/weapon/medium/Caldwell_Rival_Handcannon",
+      "name": "Caldwell Rival Handcannon"
+    },
+    "combatAxe": {
+      "img": "/weapon/medium/Combat_Axe",
+      "name": "Combat Axe"
+    },
+    "dolch96Precision": {
+      "img": "/weapon/medium/Dolch_98_Precision",
+      "name": "Dolch 98 Precision"
+    }
+  },
+  "small": {
+    "caldwellConversionUppercut": {
+      "img": "/weapon/small/Caldwell_Conversion_Uppercut",
+      "name": "Caldwell Conversion Uppercut"
+    },
+    "bornheimNo3Extended": {
+      "img": "/weapon/small/Bornheim_No._3_Extended",
+      "name": "Bornheim No. 3 Extended"
+    },
+    "bornheimNo3": {
+      "img": "/weapon/small/Bornheim_No._3",
+      "name": "Bornheim No. 3"
+    },
+    "caldwellConversionChainPistol": {
+      "img": "/weapon/small/Caldwell_Conversion_Chain_Pistol",
+      "name": "Caldwell Conversion Chain Pistol"
+    }
+  }
+}
